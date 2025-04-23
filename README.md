@@ -19,15 +19,15 @@ Welcome to **DockSpace**! 🌊 This repository is my personal harbor of containe
    - **Goal:** Deploy a Machine Learning-powered Titanic survival prediction app using Streamlit and Docker.  
    - **Key Focus:** ML model serving, interactive UI, and cloud deployment.  
 
-**4. [Containerized MySQL: Agile & Efficient](https://github.com/Kunal5520254/DockSpace-main/tree/main/DockSpace-main/3.Titanic%20Survival%20Predictor%20Containerized%20Streamlit%20App) 🐬**  
+**4. [Containerized MySQL: Agile & Efficient](https://github.com/kunalbhati99/DockSpace-main/tree/main/4.%20Containerized%20MySQL_%20Agile%20%26%20Efficient%20%F0%9F%90%AC) 🐬**  
    - **Goal:** Deploy MySQL in a Docker container, ensuring fast, reliable, and persistent database management.  
    - **Key Focus:** Data persistence, networking, and security.  
 
-**5. [Docker Volume Persistence: Bind Mounts with Linux Containers](https://github.com/Kunal5520254/DockSpace-main/tree/main/DockSpace-main/4.%20Containerized%20MySQL_%20Agile%20%26%20Efficient%20%F0%9F%90%AC) 🗂️**  
+**5. [Docker Volume Persistence: Bind Mounts with Linux Containers](https://github.com/kunalbhati99/DockSpace-main/tree/main/5.%20Docker%20Volume%20Persistence_%20Bind%20Mounts%20with%20Linux%20Containers) 🗂️**  
    - **Goal:** Ensure data persistence and prevent loss by using Docker volumes and bind mounts.  
    - **Key Focus:** Storage management, Linux containers, and backups.  
 
-**6. [Docker Bridge: Balancing Isolation & Connectivity](https://github.com/Kunal5520254/DockSpace-main/tree/main/DockSpace-main/5.%20Docker%20Volume%20Persistence_%20Bind%20Mounts%20with%20Linux%20Containers) 🔗**  
+**6. [Docker Bridge: Balancing Isolation & Connectivity](https://github.com/kunalbhati99/DockSpace-main/tree/main/6.%20Docker%20Bridge_%20Balancing%20Isolation%20%26%20Connectivity) 🔗**  
    - **Goal:** Master Docker bridge networks to create a balance between container isolation and seamless connectivity.  
    - **Key Focus:** Multi-container communication, secure networking, and efficiency.  
 
