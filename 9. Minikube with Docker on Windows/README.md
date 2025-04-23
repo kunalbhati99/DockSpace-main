@@ -57,12 +57,12 @@ Verify installation:
 ```bash
 kubectl version --client
 ```
-![image](https://github.com/Kunal5520254/DockSpace-main/blob/main/DockSpace-main/9.%20Minikube%20with%20Docker%20on%20Windows/images/1.png)
-![image](https://github.com/Kunal5520254/DockSpace-main/blob/main/DockSpace-main/9.%20Minikube%20with%20Docker%20on%20Windows/images/2.png)
-![image](https://github.com/Kunal5520254/DockSpace-main/blob/main/DockSpace-main/9.%20Minikube%20with%20Docker%20on%20Windows/images/2.png)
-![image](https://github.com/Kunal5520254/DockSpace-main/blob/main/DockSpace-main/9.%20Minikube%20with%20Docker%20on%20Windows/images/4.png)
+![image](https://github.com/kunalbhati99/DockSpace-main/blob/main/9.%20Minikube%20with%20Docker%20on%20Windows/images/1.png)
+![image](https://github.com/kunalbhati99/DockSpace-main/blob/main/9.%20Minikube%20with%20Docker%20on%20Windows/images/2.png)
+![image](https://github.com/kunalbhati99/DockSpace-main/blob/main/9.%20Minikube%20with%20Docker%20on%20Windows/images/3.png)
+![image](https://github.com/kunalbhati99/DockSpace-main/blob/main/9.%20Minikube%20with%20Docker%20on%20Windows/images/4.png)
 
-![image](https://github.com/Kunal5520254/DockSpace-main/blob/main/DockSpace-main/9.%20Minikube%20with%20Docker%20on%20Windows/images/5.png)
+![image](https://github.com/kunalbhati99/DockSpace-main/blob/main/9.%20Minikube%20with%20Docker%20on%20Windows/images/5.png?raw=true)
 
 ![image](https://github.com/Kunal5520254/DockSpace-main/blob/main/DockSpace-main/9.%20Minikube%20with%20Docker%20on%20Windows/images/6.png)
 
