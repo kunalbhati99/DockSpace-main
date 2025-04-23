@@ -11,7 +11,7 @@ Welcome to **DockSpace**! 🌊 This repository is my personal harbor of containe
    - **Goal:** Kickstart my Docker journey by running the classic "Hello World" container.  
    - **Key Focus:** Understanding basic Docker commands, image execution, and container runtime.  
 
-**2. [Dockerized Streamlit Development Environment](https://github.com/Kunal5520254/DockSpace-main/tree/main/DockSpace-main/2.%20Dockerized%20Streamlit%20Development%20Environment) 📊**  
+**2. [Dockerized Streamlit Development Environment](https://github.com/kunalbhati99/DockSpace-main/tree/main/2.%20Dockerized%20Streamlit%20Development%20Environment) 📊**  
    - **Goal:** Build a containerized Streamlit environment for smooth and efficient data visualization.  
    - **Key Focus:** Web app deployment, interactive UI, and container efficiency.  
 
