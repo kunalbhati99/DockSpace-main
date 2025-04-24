@@ -32,7 +32,7 @@ This network allows PostgreSQL and the Streamlit app to communicate.
 
 ### Step 3: Run the PostgreSQL Container
 ```sh
-docker run --name my_postgres_container --network my_postgres_network -e POSTGRES_USER=vidhi -e POSTGRES_PASSWORD=secret -e POSTGRES_DB=testdb -p 5432:5432 -d postgres
+docker run --name my_postgres_container --network my_postgres_network -e POSTGRES_USER=Kunal -e POSTGRES_PASSWORD=secret -e POSTGRES_DB=testdb -p 5432:5432 -d postgres
 ```
 This starts a PostgreSQL container with authentication settings.
 
