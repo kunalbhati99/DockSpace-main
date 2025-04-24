@@ -102,7 +102,7 @@ kubectl describe pods
 ```
 ![img7](https://github.com/kunalbhati99/DockSpace-main/blob/main/11.Microservices%20Orchestration%20with%20Minikube%20and%20Kubernetes/images/7.png)
 
-![img8](https://github.com/vidhi-jaju/DockSpace/blob/34f3d29c5557ad9b4642272bab0635b0ce3eab3b/11.Microservices%20Orchestration%20with%20Minikube%20and%20Kubernetes/images/8.png)
+![img8](https://github.com/kunalbhati99/DockSpace-main/blob/main/11.Microservices%20Orchestration%20with%20Minikube%20and%20Kubernetes/images/8.png)
 
 ![img9](https://github.com/kunalbhati99/DockSpace-main/blob/main/11.Microservices%20Orchestration%20with%20Minikube%20and%20Kubernetes/images/9.png)
 
