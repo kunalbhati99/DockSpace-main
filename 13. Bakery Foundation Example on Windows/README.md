@@ -36,7 +36,7 @@ Open PowerShell and run:
 packer --version
 ```
 ✅ If successful, the Packer version will be displayed.
-![img](https://github.com/vidhi-jaju/DockSpace/blob/ed97e514d1e8e008d7d19cb1706d21c35c4db923/13.%20Bakery%20Foundation%20Example%20on%20Windows/images/1.png)
+![img](https://github.com/kunalbhati99/DockSpace-main/blob/main/13.%20Bakery%20Foundation%20Example%20on%20Windows/images/1.png)
 
 ### 1.2 Install AWS CLI
 #### Step 1: Download AWS CLI
@@ -50,7 +50,7 @@ packer --version
   aws --version
   ```
   ✅ If successful, it should display something like: `aws-cli/2.x.x Windows/10`
-![img2](https://github.com/vidhi-jaju/DockSpace/blob/ed97e514d1e8e008d7d19cb1706d21c35c4db923/13.%20Bakery%20Foundation%20Example%20on%20Windows/images/2.png)
+![img2](https://github.com/kunalbhati99/DockSpace-main/blob/main/13.%20Bakery%20Foundation%20Example%20on%20Windows/images/2.png)
 
 ### 1.3 Configure AWS CLI (5 minutes)
 Run the following command in PowerShell:
@@ -63,7 +63,7 @@ Enter the following when prompted:
 - **Default region name:** `us-east-1` (or your preferred region)
 - **Default output format:** `json` (Press Enter)
 ✅ AWS CLI is now configured.
-![img3](https://github.com/vidhi-jaju/DockSpace/blob/ed97e514d1e8e008d7d19cb1706d21c35c4db923/13.%20Bakery%20Foundation%20Example%20on%20Windows/images/3.png)
+![img3](https://github.com/kunalbhati99/DockSpace-main/blob/main/13.%20Bakery%20Foundation%20Example%20on%20Windows/images/3.png)
 
 ## Step 2: Create the Packer Template
 
@@ -116,7 +116,7 @@ source "amazon-ebs" "python39" {
   source_ami = "ami-xxxxxxxxxxxxxxx"  # Replace with actual AMI ID
 }
 ```
-![img4](https://github.com/vidhi-jaju/DockSpace/blob/ed97e514d1e8e008d7d19cb1706d21c35c4db923/13.%20Bakery%20Foundation%20Example%20on%20Windows/images/4.png)
+![img4](https://github.com/kunalbhati99/DockSpace-main/blob/main/13.%20Bakery%20Foundation%20Example%20on%20Windows/images/4.png)
 
 ## Step 3: Validate and Build the Image
 
@@ -134,14 +134,14 @@ Validate the template:
 packer validate bakery.pkr.hcl
 ```
 ✅ Expected Output: `The configuration is valid.`
-![img5](https://github.com/vidhi-jaju/DockSpace/blob/ed97e514d1e8e008d7d19cb1706d21c35c4db923/13.%20Bakery%20Foundation%20Example%20on%20Windows/images/5.png)
+![img5](https://github.com/kunalbhati99/DockSpace-main/blob/main/13.%20Bakery%20Foundation%20Example%20on%20Windows/images/5.png)
 
 ### 3.2 Build the Machine Image
 Run the following command:
 ```powershell
 packer build bakery.pkr.hcl
 ```
-![img6](https://github.com/vidhi-jaju/DockSpace/blob/ed97e514d1e8e008d7d19cb1706d21c35c4db923/13.%20Bakery%20Foundation%20Example%20on%20Windows/images/6.png)
+![img6](https://github.com/kunalbhati99/DockSpace-main/blob/main/13.%20Bakery%20Foundation%20Example%20on%20Windows/images/6.png)
 
 This will:
 - Create a temporary EC2 instance.
